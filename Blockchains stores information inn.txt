@@ -1,0 +1,33 @@
+Blockchains stores information inn batches called blocks. These bocks are linked together in a sequential way to form a continuous line. A chain of blocks. A blockchain. Each block is like a page ofo a ledger or a record book
+
+
+Blockchain has basically three elements 
+Data: The type of data depends on what the blockchain is being used for. in Bitcoins, for example, a block's data contains the details about the transaction including sender, receiver, number of coins, and so on.
+
+
+Hash: A hash in blockchain is something like a fingerprint or signature. it identifies a block and its content and its always unique.
+
+Hash of previous Block: This piece is precisely what makes  a blockchain! because each block carries the information of the previous block, the chain becomes very secure. 
+
+
+A blockchain is a decentralized, distributed and oftentime public, digital ledger consisting of records called blocks that is used to record transactions across many computers so that any involved block cannot be altered retroactively, without the alteration of all subsequent blocks.
+
+
+Blockchain is a decentralized digital ledger that securely stores records across a network of computers in a way that is transparentm immutable and resistant to tampering. Each block contains datam and blocks are linked in a chronological chain.
+
+
+**************************************
+A blockchain is a distributed databased or ledger shared across a computer network's nodes. They are best known for their crucial role in cryptocurrency systems, maintaining a secure and decentralized record of transcations but they are not limited to cryptocyrrency uses. Blockchains can be used to make data in any industry immuatable- meaning it cannot be altered
+
+
+Key Takeaway
+Blockchain is a type of shared databased that differs from a typical databased in the way it stores information; blockchains stores data in blocks linked together via crypography 
+
+
+Different types of information can be stored on a blockchain, but the most common use has been as a transaction ledger.
+
+
+In Bitcoin's case the blockchain is decentralized, so no single person or  group has control instead all users colectively retain control.
+
+
+Decentralized blockchains are immutable. which means that te data entered is irreversible. For Bticon, transaction are permanently record and viewable to anymore.
