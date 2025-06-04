@@ -31,3 +31,10 @@ In Bitcoin's case the blockchain is decentralized, so no single person or  group
 
 
 Decentralized blockchains are immutable. which means that te data entered is irreversible. For Bticon, transaction are permanently record and viewable to anymore.
+
+
+How Does a Blockchain works
+A blockchain is a database where information is entered and stored. They key difference between a traditional database or spreadsheet and a blockchain is how the data is structered and accessed
+
+
+A blockchain consist of programs called scripts that conduct the tasks you usually would in a database. entering and accessing information, and saving and storing it somewhere. A blockchain is distributed, which means multiple copies are saved on many machines, and they must all match for it to be valid.
