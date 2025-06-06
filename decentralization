@@ -2,4 +2,9 @@ In blockchain, decentralization refers to the transfer of control and decison-ma
 
 ##### Decentralization Finance (Defi) ########
 
-Decentralized finance (Defi) is an emerganing peer to per finanial system that uses blockchain and cryptocurrencies
+Decentralized finance (Defi) is an emerganing peer to per finanial system that uses blockchain and cryptocurrencies to allow people, business or other entities to transact directly with each other. The key principle behind Defi to remoce third parties like banks from the financail system thereby reducing costs and transactio times.
+
+
+###### Blochchain #####
+
+A blockchain is a distributed and secured database or ledger. in a blockchain, transactions are recorded in files callesd blocks and verified through automated process. if a transaction is verified, the block is closed and encrypted, anothter block is create with information about the previous block and information about newer transactions.
