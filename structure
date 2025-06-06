@@ -1,0 +1,8 @@
+The traditional architure of the world wide wev uses a client-secer network. in this case. the server keeps all the required information in one place so that it is easy to update. due to the server being a centralized database controlled by a number of administators with permissions.
+
+
+in the case of the distributed network of blockchain architecture, each participant within the network maintains, apprves, and update new entries.
+the system is controlled not only by separate individuals, but  by everyone within the blockchain networks. Each members ensures that all records and procedures are in order which results in data validity and security. Thus, parties that do not necessarily truch each other are able to reach a common consenus.
+
+
+to summarize things, the blockchain is a decentralized, distributed ledger (pubic or private) of different kings of transactions arranged into p2p network. This network consists of many computers, but in a way that the data cannot be altered without the consensus of the whole network (each separate computers)
