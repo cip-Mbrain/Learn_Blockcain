@@ -1,0 +1,18 @@
+Altcoins are alternative digital currencies existing alongside Bitcoins. They offter vaious features like faster transactions, privacy enhancements, or specific applications, thus broading the spectrum of digital payment option.
+
+in terms of market capitalization in August 2019, the top altcoins on coinmarketcap ranked in descending order were Etherum, Ripple, Bitcoin Cash, Lite, Tether, Binance Coin, EOS, Bitcoin SV
+
+
+Some altcoins are not very old. This also mean sthat a number of altcoins that were  in the top 10 terms of market capitalizatio in the early days of cryptocurrencies are no longer around or not as popular as they used to be.
+
+
+The term "Market Capitalization or market cap is an important metic in the evalutaion of the market value of a cryptocurrencu. this figure is indivcated by a cryptocurrency's current market price times the toal numver of coins  in the markert.
+
+
+#####  Litecoin  ######
+Litecoin is an altcoin that was created to become the "Silver" to Bticon gold. While the average time to confirm a transaction oin the Bitcon network is just over 10 minutes, the Litecoin network takes about 2.5 minutes Litecoin had originally also set out to make access to mining easier for the average user. Litecoin uses a cryptographic algorithm fundamentallu different to Bitcoin called Scrypt.
+
+Ethereum and decentralised applications (DApps)
+Ether, which runs on Ethereums blockchain, is currently the second largest cryptocurrency in term of mrket cap.
+
+
